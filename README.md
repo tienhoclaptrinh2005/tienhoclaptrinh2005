@@ -32,18 +32,23 @@
    
   ## 👀Profile Views
   
-    <table>
-      <tr>
-        <!-- <th>Profile Views </th> -->
-        <th>Total Count</th>
-      </tr>
-      <tr>
-        <td>
-           <a href="https://github.com/tienhoclaptrinh2005"> <img src="https://komarev.com/ghpvc/?username=tienhoclaptrinh2005&style=for-the-badge&color=brightgreen"> </a>
-        </td>
-      </tr>
-    </table>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/tienhoclaptrinh2005"> <img src="https://komarev.com/ghpvc/?username=tienhoclaptrinh2005&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   ## 🤓What I'm Doing
   
