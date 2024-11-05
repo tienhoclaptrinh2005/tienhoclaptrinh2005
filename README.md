@@ -12,7 +12,7 @@
   ## 🏠Introduction
   
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Founder+%26+Ceo+Of+Rosie+Team+Network;With+6+Years+Of+Programming+Experience;Currently+Working+As+A+Developer+For+%2B600K+Sever;Owned+Website%3A+RosieTeam.Net" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E4F70A&random=false&width=500&lines=Hey+buddy;I'm+Vu+Manh+Tien;Welcome+to+my+personal+page; alt="Typing SVG" /></a>
   </p>
   <h3 align="center">Hey there, I'm <a href="https://github.com/tienhoclaptrinh2005">Vũ Mạnh Tiến</a></h3>
   <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
