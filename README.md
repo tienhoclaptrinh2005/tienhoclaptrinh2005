@@ -77,23 +77,7 @@
   ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">
 
   
-  ### 📈 User Statistics
-  
-  <table>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github-readme-streak-stats.herokuapp.com/?user=tienhoclaptrinh2005">
-            <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=tienhoclaptrinh2005&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
-          </a>
-        </td>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tienhoclaptrinh2005">
-            <img width="715" src="https://gith
+
   <!--cre: 
 
   Redesign by VŨ MẠNH TIẾN
