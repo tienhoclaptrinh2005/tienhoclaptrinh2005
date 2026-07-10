@@ -114,25 +114,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=tienhoclaptrinh2005&
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tienhoclaptrinh2005&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-# 📅 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tienhoclaptrinh2005&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🐍 My Contribution Snake
 
@@ -166,11 +147,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=tienhoclaptrinh2005&
 
 </div>
   
-  ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">
+   <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> VŨ MẠNH TIẾN
 
   
 
-  <!--cre: 
-
-  Redesign by VŨ MẠNH TIẾN
-  -->
