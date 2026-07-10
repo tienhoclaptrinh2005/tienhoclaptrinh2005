@@ -64,7 +64,7 @@
   ## 🛠️Languages , Technologies and Tools 🛠
   
   <div align="center">
-      <img src="https://skillicons.dev/icons?i=ae,bootstrap,androidstudio,html,css,vscode,visualstudio,github,au,bash,git,r,blender,discord,discordjs,bots,java,lua,php,ps,pr,xd,nodejs,python,javascript,typescript,bash,firebase,mongodb,c,cs,cpp,java,nextjs,mysql,codepen,cloudflare,ai,heroku,instagram,robloxstudio,unity,unreal,go,pycharm" />
+      <img src="https://skillicons.dev/icons?i=ae,bootstrap,androidstudio,html,css,vscode,visualstudio,github,git,blender,discord,discordjs,java,php,nodejs,python,javascript,typescript,c,cpp,nextjs,mysql,codepen,cloudflare,ai,heroku,unity,unreal,pycharm" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   ## 🐍My Contribution
