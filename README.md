@@ -55,7 +55,7 @@
   - 🖥️ Working On Rosie Team Network
     
   
-  - 🤓 Learning Node.js & Html, Php, Lua, More...
+  - 🤓 Learning Java , Node.js & Html, Php , C++ , More...
   
   
   - <a href="https://tienhoclaptrinh2005.github.io/profile" target="_blank">➡️ ℹ️ My Info 🌐 ⬅️</a>
@@ -74,17 +74,8 @@
    </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
-  ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhoclaptrinh2005&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  ### 🏆 GitHub Trophies
-  
-  <a href="https://github-trophies.vercel.app/?username=tienhoclaptrinh2005" target="_blank">
-    <img src="https://github-trophies.vercel.app/?username=tienhoclaptrinh2005&theme=radical&margin-w=4&margin-h=4">
-  </a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px">
+
   
   ### 📈 User Statistics
   
@@ -102,59 +93,8 @@
       <tr>
         <td>
           <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tienhoclaptrinh2005">
-            <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tienhoclaptrinh2005&theme=dracula"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-    <tbody>
-  </table>
-  <table>
-    <tbody>
-      <tr>
-        <th>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienhoclaptrinh2005&">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienhoclaptrinh2005&theme=dracula"/>
-          </a>
-        </th>
-        <th>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienhoclaptrinh2005&">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienhoclaptrinh2005&theme=dracula"/>
-          </a>
-        </th>
-      </tr>
-    </tbody>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tienhoclaptrinh2005">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tienhoclaptrinh2005&theme=dracula"/>
-          </a>
-        </td>
-        <td>
-          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tienhoclaptrinh2005">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tienhoclaptrinh2005&theme=dracula"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  <h2 align="center">📑 My Favorites Quote 📑</h2>
-  
-  <br>
-  <a href="#" target="_blank">
-    <img src="svg/vumanhtien-quotes.svg" width="846" height="150" alt="vumanhtien-official" />
-  </a>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  
-  </div>
-  
+            <img width="715" src="https://gith
   <!--cre: 
-  https://github.com/NguyenNhatDino 
-  https://github.com/trungquandev
-  
+
   Redesign by VŨ MẠNH TIẾN
   -->
