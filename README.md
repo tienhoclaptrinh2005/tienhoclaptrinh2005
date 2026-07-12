@@ -65,17 +65,13 @@ Java Backend Developer • Spring Boot • Next.js • PostgreSQL
 
 <p align="center">
 
-<img height="170"
-<!-- src="https://github-readme-stats.vercel.app/api?username=tienhoclaptrinh2005&show_icons=true&theme=tokyonight&hide_border=true"/> -->
+
 
 <img height="170"
 src="https://github-readme-streak-stats.herokuapp.com/?user=tienhoclaptrinh2005&theme=tokyonight&hide_border=true"/>
 
 </p>
 
-<p align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tienhoclaptrinh2005&layout=compact&theme=tokyonight&hide_border=true"/> -->
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
