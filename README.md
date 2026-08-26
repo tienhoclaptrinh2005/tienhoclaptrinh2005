@@ -71,19 +71,6 @@ Java Backend Developer • Spring Boot • Next.js • PostgreSQL
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tienhoclaptrinh2005&theme=tokyonight"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tienhoclaptrinh2005&theme=tokyonight"
-  alt="Top Languages"
-/>
-
-</p>
 
 <br>
 
@@ -96,18 +83,7 @@ Java Backend Developer • Spring Boot • Next.js • PostgreSQL
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tienhoclaptrinh2005&theme=tokyonight"
-  alt="GitHub Activity"
-/>
-
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
