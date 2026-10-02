@@ -246,7 +246,7 @@ Backend Architecture
 
 <br/>
 
-<b>VŨ MẠNH TIẾN</b>
+<b>VŨ MẠNH TIẾN | VMT</b>
 
 <br/><br/>
 
