@@ -41,6 +41,24 @@
                         inset 0 0 28px rgba(167, 139, 250, 0.10);
           }
         }
+        @keyframes flagWave {
+          0%, 100% {
+            transform: perspective(90px) rotateY(-7deg) skewY(0deg) translateY(0);
+          }
+          25% {
+            transform: perspective(90px) rotateY(10deg) skewY(2deg) translateY(-1px);
+          }
+          50% {
+            transform: perspective(90px) rotateY(-3deg) skewY(-1deg) translateY(1px);
+          }
+          75% {
+            transform: perspective(90px) rotateY(8deg) skewY(1deg) translateY(-1px);
+          }
+        }
+        @keyframes flagGlow {
+          0%, 100% { filter: drop-shadow(0 0 3px rgba(250,204,21,.35)); }
+          50% { filter: drop-shadow(0 0 8px rgba(250,204,21,.7)); }
+        }
 				.container {
 					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
 					display: flex;
@@ -132,6 +150,56 @@
           color: #7dd3fc;
           font-weight: 750;
         }
+        .vn-flag-wrap {
+          display: inline-flex;
+          align-items: center;
+          width: 54px;
+          height: 31px;
+          margin-left: 12px;
+          vertical-align: -8px;
+          position: relative;
+          animation: flagGlow 2.2s ease-in-out infinite;
+        }
+        .vn-pole {
+          width: 2px;
+          height: 31px;
+          flex: 0 0 auto;
+          border-radius: 2px;
+          background: linear-gradient(#f8fafc, #64748b);
+          box-shadow: 0 0 5px rgba(226,232,240,.45);
+        }
+        .vn-pole::before {
+          content: '';
+          display: block;
+          width: 5px;
+          height: 5px;
+          margin: -3px 0 0 -1.5px;
+          border-radius: 50%;
+          background: #facc15;
+          box-shadow: 0 0 5px rgba(250,204,21,.75);
+        }
+        .vn-flag {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          width: 47px;
+          height: 29px;
+          overflow: hidden;
+          transform-origin: left center;
+          border-radius: 1px 4px 4px 1px;
+          background: linear-gradient(100deg, #b91c1c 0%, #ef2929 48%, #c81414 100%);
+          box-shadow: inset -7px 0 9px rgba(79,0,0,.22),
+                      inset 0 1px 1px rgba(255,255,255,.16);
+          animation: flagWave 1.65s ease-in-out infinite;
+        }
+        .vn-star {
+          display: block;
+          color: #facc15;
+          font-size: 18px;
+          line-height: 1;
+          transform: translateY(-.5px);
+          text-shadow: 0 0 4px rgba(250,204,21,.45);
+        }
         .role-frame {
           display: inline-flex;
           align-items: center;
@@ -188,7 +256,7 @@
 				<div class="greeting">
           <div class="greeting-line hello">Hi <span class="hello-accent">Aliens!</span></div>
           <div class="greeting-line intro">I'm <span class="name">Vu Manh Tien</span></div>
-          <div class="greeting-line origin">from the <span class="earth-word">Earth.</span></div>
+          <div class="greeting-line origin">from the <span class="earth-word">Earth.</span><span class="vn-flag-wrap" role="img" aria-label="Vietnam flag"><span class="vn-pole"></span><span class="vn-flag"><span class="vn-star">★</span></span></span></div>
           <div class="role-frame"><span class="role">JAVA BACKEND DEVELOPER</span></div>
         </div>
         <!-- <div class="skills">
