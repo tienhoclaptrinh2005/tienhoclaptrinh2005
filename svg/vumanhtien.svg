@@ -79,7 +79,9 @@
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
-          Hi Aliens!<br/>I'm Vu Manh Tien from the Earth.
+          Hi Aliens!<br/>I'm Vu Manh Tien from the Earth. <br/>JAVA BACKEND DEVELOPER
+					
+
         </div>
         <div class="skills">
           <div class="skills_icon">
